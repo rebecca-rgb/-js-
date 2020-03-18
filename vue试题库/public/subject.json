@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "title": "1+1=____",
+        "type": 0,
+        "choice": [
+            {
+                "id": 11,
+                "choice": "A",
+                "answer": 0
+            },
+            {
+                "id": 12,
+                "choice": "B",
+                "answer": 1
+            },
+            {
+                "id": 13,
+                "choice": "C",
+                "answer": 2
+            },
+            {
+                "id": 14,
+                "choice": "D",
+                "answer": 3
+            }
+        ],
+        "answer": "C"
+    },
+    {
+        "id": 1,
+        "title": "请选择偶数",
+        "type": 1,
+        "choice": [
+            {
+                "id": 11,
+                "choice": "A",
+                "answer": 0
+            },
+            {
+                "id": 12,
+                "choice": "B",
+                "answer": 1
+            },
+            {
+                "id": 13,
+                "choice": "C",
+                "answer": 2
+            },
+            {
+                "id": 14,
+                "choice": "D",
+                "answer": 3
+            }
+        ],
+        "answer": 2
+    }
+]
